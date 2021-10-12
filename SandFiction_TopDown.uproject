@@ -87,6 +87,10 @@
 		{
 			"Name": "CLionSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "ControlRigSpline",
+			"Enabled": true
 		}
 	]
 }
