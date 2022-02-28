@@ -91,6 +91,10 @@
 		{
 			"Name": "ControlRigSpline",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
